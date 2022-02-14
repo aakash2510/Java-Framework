@@ -10,6 +10,8 @@ package com.java.fundamentals;
 public class Identifiers {
 
 	public static void main(String[] args) {
+		int b = 20;
+		System.out.println(b);
 		int j = 20;
 		System.out.println(j);
 		double l = 10.0;
