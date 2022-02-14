@@ -14,6 +14,8 @@ public class Identifiers {
 		System.out.println(j);
 		double l = 10.0;
 		System.out.println(l);
+		int m = 10;
+		System.out.println(m);
 		int i = 10;
 		System.out.println(i);
 		double k = 10.0;
